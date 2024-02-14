@@ -349,7 +349,6 @@ body {
 
 @media only screen and (max-width: 75rem) {
   .index {
-    margin-top: calc((100vh / 2) - (var(--height-index-lg) / 2));
     max-width: var(--max-width-index-lg);
     min-width: var(--min-width-index-lg);
   }
